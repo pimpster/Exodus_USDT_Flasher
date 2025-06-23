@@ -1,5 +1,6 @@
 # LeetCore USDT Flasher (Fake USDT Crypto Transcations)
 
+![image](https://github.com/user-attachments/assets/f6791a25-026f-4345-83ee-76350ebb941a)
 
 A powerful and user-friendly tool for managing cryptocurrency transactions with Exodus wallet integration.
 
