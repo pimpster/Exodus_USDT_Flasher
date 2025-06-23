@@ -1,6 +1,7 @@
 # LeetCore USDT Flasher (Fake USDT Crypto Transcations)
-A powerful and user-friendly tool for managing cryptocurrency transactions with Exodus wallet integration.
 
+
+A powerful and user-friendly tool for managing cryptocurrency transactions with Exodus wallet integration.
 
 ## Features
 
@@ -10,7 +11,23 @@ A powerful and user-friendly tool for managing cryptocurrency transactions with 
 - 📱 **User-Friendly Interface**: Intuitive GUI for all operations
 - 🔄 **Transaction Management**: Cancel pending transactions with one click
 
-## Prerequisites
+## Prerequisites for automatic executable install (build)
+- Infura Project ID (for Ethereum network access) as GUI will ask for the API key.
+- Exodus Wallet with atleast $2 for gas fee's.
+
+## Prerequisites for manual install via Python script.
+- Download zip or git clone repo.
+- Install Python 3.8 and pip install requirements:
+  
+web3==6.0.0
+Pillow==9.5.0
+pywin32==306
+requests==2.31.0
+pycryptodome==3.18.0
+eth-account==0.9.0
+eth-typing==3.3.0
+eth-utils==2.2.2
+
 - Infura Project ID (for Ethereum network access) as GUI will ask for the API key.
 - Exodus Wallet with atleast $2 for gas fee's.
 
