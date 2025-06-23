@@ -12,6 +12,7 @@ A powerful and user-friendly tool for managing cryptocurrency transactions with 
 - 🔄 **Transaction Management**: Cancel pending transactions with one click
 
 ## Prerequisites for automatic executable install (build)
+- Everything is compiled into the .exe so nothing need's to be installed like the manual way.
 - Infura Project ID (for Ethereum network access) as GUI will ask for the API key.
 - Exodus Wallet with atleast $2 for gas fee's.
 
