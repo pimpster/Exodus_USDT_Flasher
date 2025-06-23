@@ -39,3 +39,6 @@ eth-utils==2.2.2
 2. Make sure you have Exodus Wallet installed.
 3. Run the executable and fill in the information such as API key and give it the address to send funds to.
 4. Success.
+
+If you want to donate:
+https://buymeacoffee.com/phreak
